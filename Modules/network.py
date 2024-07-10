@@ -28,7 +28,7 @@ def netfun():
     # this key will authorize our requests
     # Replace the value of the key with your own
 
-    api_key = "0d2b080f79d3972231b47ee9711427449992cd1d74ca9c1a5aed4dbd940dff7a"
+    api_key = ""
 
     # The below for loop will check for malicious content on each of the http request 
     # using the virustotal database and return the results in the form of json value
