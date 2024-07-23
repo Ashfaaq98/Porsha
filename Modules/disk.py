@@ -2,6 +2,10 @@ import sys
 import os
 import pytsk3
 
+"""
+Need to improve to suit all partition type
+"""
+
 
 def diskfun():
     # This function will take the user input of a disk image

@@ -1,8 +1,5 @@
-#!/usr/bin/python
-
 # This is a multi-purpose Forensics Tool
 # Author : M.F.M. Ashfaaq
-3
 # Import Statements for essential modules
 
 from Modules import disk, memory, hash, metadata, network
