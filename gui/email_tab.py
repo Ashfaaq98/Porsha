@@ -1,5 +1,6 @@
 from PyQt5.QtWidgets import QWidget, QVBoxLayout, QPushButton, QTextEdit
 
+
 class EmailTab(QWidget):
     def __init__(self):
         super().__init__()
